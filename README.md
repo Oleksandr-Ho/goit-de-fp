@@ -3,10 +3,10 @@
 ### Проєкт Частина 1. Building an End-to-End Streaming Pipeline
 
 #### Кафка-топік oholodetskyi_athlete_enriched_agg
-![Kafka-топік oholodetskyi_athlete_enriched_agg.PNG](Building%20an%20End-to-End%20Streaming%20Pipeline/Kafka-%D1%82%D0%BE%D0%BF%D1%96%D0%BA%20oholodetskyi_athlete_enriched_agg.PNG)
+![task_1 Kafka-топік oholodetskyi_athlete_enriched_agg.PNG](Building%20an%20End-to-End%20Streaming%20Pipeline/task_1%20Kafka-%D1%82%D0%BE%D0%BF%D1%96%D0%BA%20oholodetskyi_athlete_enriched_agg.PNG)
 
 #### Таблиця oholodetskyi.athlete_enriched_agg
-![Таблиця oholodetskyi.athlete_enriched_agg.PNG](Building%20an%20End-to-End%20Streaming%20Pipeline/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F%20oholodetskyi.athlete_enriched_agg.PNG)
+![task_1 Таблиця oholodetskyi.athlete_enriched_agg.PNG](Building%20an%20End-to-End%20Streaming%20Pipeline/task_1%20%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F%20oholodetskyi.athlete_enriched_agg.PNG)
 
 
 
